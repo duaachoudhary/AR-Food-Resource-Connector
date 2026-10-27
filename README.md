@@ -9,7 +9,7 @@ An app connecting Arkansans to nearby food pantries/resources as well as, provid
 -Working back button
 
 ## Screenshots
-[App Screenshot]([s](https://kommodo.ai/i/Bv6osgLvJyla16bNYAzg))
+[App Screenshot](https://kommodo.ai/i/Bv6osgLvJyla16bNYAzg)
 
 ## How to Use
 1. Open the project in the required app builder or editor.
