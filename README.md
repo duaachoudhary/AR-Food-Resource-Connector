@@ -9,7 +9,7 @@ An app connecting Arkansans to nearby food pantries/resources as well as, provid
 -Working back button
 
 ## Screenshots
-[App Screenshot](ss)
+[App Screenshot](s)
 
 ## How to Use
 1. Open the project in the required app builder or editor.
